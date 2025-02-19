@@ -1,0 +1,72 @@
+{
+    {
+        "id": 1,
+        "Name": "Смартфон Samsung Galaxy S21",
+        "Description": "Флагманский смартфон с мощной камерой и производительным процессором.",
+        "Price": 799.99,
+        "ImageUrl": "https://images.samsung.com/smartphone.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Ноутбук Apple MacBook Air M1",
+        "Description": "Легкий и мощный ноутбук на базе процессора Apple M1.",
+        "Price": 999.99,
+        "ImageUrl": "https://images.apple.com/macbook.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Игровая консоль PlayStation 5",
+        "Description": "Новое поколение игровой консоли с поддержкой 4K-гейминга.",
+        "Price": 499.99,
+        "ImageUrl": "https://images.playstation.com/ps5.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Умные часы Apple Watch Series 7",
+        "Description": "Передовые умные часы с широкими возможностями фитнес-трекинга.",
+        "Price": 429.99,
+        "ImageUrl": "https://images.apple.com/watch.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Беспроводные наушники Sony WH-1000XM4",
+        "Description": "Премиальные наушники с шумоподавлением и отличным звуком.",
+        "Price": 349.99,
+        "ImageUrl": "https://images.sony.com/wh1000xm4.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Телевизор LG OLED CX",
+        "Description": "4K OLED телевизор с глубокими черными цветами и высокой яркостью.",
+        "Price": 1299.99,
+        "ImageUrl": "https://images.lg.com/oled-tv.jpg"
+    },
+    {
+        "id": 7,
+        "Name": "Планшет iPad Pro 12.9",
+        "Description": "Мощный планшет для работы и творчества с экраном Liquid Retina XDR.",
+        "Price": 1099.99,
+        "ImageUrl": "https://images.apple.com/ipadpro.jpg"
+    },
+    {
+        "id": 8,
+        "Name": "Фотоаппарат Canon EOS R5",
+        "Description": "Профессиональная беззеркальная камера с поддержкой 8K-видео.",
+        "Price": 3899.99,
+        "ImageUrl": "https://images.canon.com/eosr5.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Геймпад Xbox Series X",
+        "Description": "Эргономичный контроллер для консоли и ПК.",
+        "Price": 59.99,
+        "ImageUrl": "https://images.xbox.com/controller.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "Робот-пылесос Xiaomi Mi Robot Vacuum",
+        "Description": "Умный робот-пылесос с лазерной навигацией.",
+        "Price": 299.99,
+        "ImageUrl": "https://images.mi.com/robot-vacuum.jpg"
+    }
+}
